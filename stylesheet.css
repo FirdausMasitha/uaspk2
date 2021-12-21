@@ -20,14 +20,14 @@ input[type=text]:disabled{
 	width: 100px;
 	height: 40px;
 	background-color: #4CAF50;
-    border: none;
-    color: white;
-    padding: 10px;
-    font-size: 16px;
-    cursor: pointer;
+    	border: none;
+    	color: white;
+    	padding: 10px;
+    	font-size: 16px;
+    	cursor: pointer;
 }
 .opr{
-		background-color: #555555;
+	background-color: #555555;
 }
 .clr{
 	background-color: #f44336;;
@@ -36,34 +36,34 @@ input[type=text]:disabled{
 	background-color: #008CBA;
 }
 body {
-    width: 100%;
-    min-height: 100vh;
-    background: -webkit-linear-gradient(bottom, #fbfbfb, #62685f);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    	width: 100%;
+    	min-height: 100vh;
+    	background: -webkit-linear-gradient(bottom, #fbfbfb, #62685f);
+    	background-repeat: no-repeat;
+    	background-position: center;
+    	background-size: cover;
+    	display: flex;
+    	justify-content: center;
+    	align-items: center;
 }
 
 .header {
-background-color: #FFF;
-color: black;
-height: 90px;
+	background-color: #FFF;
+	color: black;
+	height: 90px;
 }
 .header-logo {
-float: left;
-font-family: 'cursive';
-font-style: italic;
-font-weight: bold;
-font-size: 36px;
-padding: 20px 40px;
+	float: left;
+	font-family: 'cursive';
+	font-style: italic;
+	font-weight: bold;
+	font-size: 36px;
+	padding: 20px 40px;
 }
 .satu {
-background-color: #FFF;
-width: 450px;
-color: black;
-margin: 20px auto;
-padding: 15px;
+	background-color: #FFF;
+	width: 450px;
+	color: black;
+	margin: 20px auto;
+	padding: 15px;
 }
